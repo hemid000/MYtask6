@@ -219,12 +219,12 @@ body {
 .layihe h2 {
     padding: 5px 5px 10px 20px;
     color: rgb(70, 70, 203);
-   
+
 }
 
 .alt {
     margin: 20px 0 0 0;
-   
+
     border: 1px solid transparent;
     float: left;
     width: 100%;
@@ -242,7 +242,7 @@ body {
 
 .sekil1 {
     float: left;
-    
+
 }
 
 .sekil1 img {
@@ -257,6 +257,7 @@ body {
     filter: grayscale(0);
 
 }
+
 .sekil2 {
     float: left;
 }
@@ -267,6 +268,7 @@ body {
     transition: .1s all;
     filter: grayscale(0.9);
 }
+
 .sekil2 img:hover {
 
     filter: grayscale(0);
@@ -283,6 +285,7 @@ body {
     transition: .1s all;
     filter: grayscale(0.9);
 }
+
 .sekil3 img:hover {
 
     filter: grayscale(0);
@@ -300,8 +303,132 @@ body {
     transition: .1s all;
     filter: grayscale(0.9);
 }
+
 .sekil4 img:hover {
 
     filter: grayscale(0);
 
+}
+
+.elaqe {
+    border: 1px solid transparent;
+    float: left;
+    width: 100%;
+    height: 800px;
+    margin: 100px 0 0 0;
+}
+
+.elaqe h2 {
+    margin: 20px 420px;
+    width: 100%;
+    height: 40px;
+    color: rgb(70, 70, 203);
+}
+
+.iceri {
+    border: 1px solid transparent;
+    width: 1100px;
+    height: 600px;
+    margin: 10px 200px;
+}
+
+input {
+    width: 250px;
+    height: 40px;
+}
+
+.ad {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.soyad {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.ata_adi {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.fin {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.nomre {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.nomre select {
+    width: 50px;
+    height: 30px;
+}
+
+.nomre input {
+    width: 198px;
+    height: 40px;
+}
+
+.elektron {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.nov {
+    float: left;
+    margin: 10px 50px 20px 20px;
+
+}
+
+.nov select {
+    width: 250px;
+    height: 40px;
+}
+
+.muraciet {
+    float: left;
+    margin: 10px 50px 20px 20px;
+
+}
+
+.muraciet select {
+    width: 250px;
+    height: 40px;
+}
+
+.radio {
+    float: left;
+    margin: 30px 50px 20px 10px;
+}
+
+.radio input {
+    width: 30px;
+    height: 15px;
+}
+
+.metn {
+    float: left;
+    margin: 10px 50px 20px 20px;
+
+}
+
+.son {
+    float: left;
+    margin: 10px 50px 20px 20px;
+}
+
+.submit {
+    margin: 30px;
+    float: left;
+    margin: 50px 10px 0px 400px;
+
+
+}
+
+.submit input {
+    width: 200px;
+    height: 50px;
 }
